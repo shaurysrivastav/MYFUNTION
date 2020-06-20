@@ -1,6 +1,4 @@
-#include <iostream>
 #include<bits/stdc++.h>
-
 using namespace std;
 vector<int> prime(vector<int> a,int n)
 {
